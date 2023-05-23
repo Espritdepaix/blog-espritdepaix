@@ -1,0 +1,13 @@
+{%- if collections.posts %}
+{%- set previousPost = collections.posts | getPreviousCollectionItem %}
+{%- set nextPost = collections.posts | getNextCollectionItem %}
+
+{%- if nextPost or previousPost %}
+<div class="prev-next book" id="posts-pn">
+<h4>Browse <a href="/blog/">the Archive</a></h4>
+{%- if previousPost %}<p class="prev"> <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></p>{% endif %}
+{%- if nextPost %}<p class="next"> <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></p>{% endif %}
+
+</div>
+{%- endif %}
+{%- endif %}

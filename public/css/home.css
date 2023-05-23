@@ -1,0 +1,215 @@
+h2 {
+    font-weight: 700
+}
+
+p {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.5em;
+    paragraph-spacing: 20px;
+    text-alignment: start;
+    text-color: #4b4b4b;
+    text-transform: none
+}
+
+.container,.form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.container {
+    border-color: #333;
+    border-style: solid;
+    border-width: 0 0 1px
+}
+
+.form {
+    padding-bottom: 10px
+}
+
+.fleche::after {
+    content: " ➝"
+}
+
+.email::after {
+    content: " ➝ "
+}
+
+.une,form {
+    background: linear-gradient(-1deg,rgba(0,0,0,.2),33%,transparent 90%),#efecee;
+    border-radius: 16px;
+    width: 100%;
+    opacity: 1;
+    padding: 1Opx
+}
+
+.une {
+    cursor: pointer;
+    display: block;
+    padding: 1Opx 1Opx 5px;
+    transform: translateY(0);
+    transition: transform .4s ease-in-out
+}
+
+.une:hover {
+    transform: translateY(-10px)
+}
+
+button[type=submit],input[type=submit] {
+   
+    line-height: 1.4em;
+    outline: 0;
+    border: medium;
+    border-radius: 8px;
+    padding: 16px;
+    font-weight: 600;
+    font-size: 1,5vw;
+    background: #252525;
+    cursor: pointer;
+    color: #fff;
+    z-index: 1;
+    opacity: 1
+}
+
+[type=text],input[type=email], textarea {
+    -webkit-appearance: none;
+    display: inline-block;
+    width: 80%;
+    line-height: 1.4em;
+    outline: 0;
+    border: 0;
+    padding: 16px;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    background: #fff;
+    color: #252525;
+    box-shadow: inset 0 0 0 1px transparent
+}
+
+form p {
+	text-align: center;
+	
+}
+
+a.list,p {
+    text-decoration: none
+}
+
+a.list,a.list:hover {
+    color: hsl(33deg,50%,10%)
+}
+
+.contact {
+    margin-top: 35px
+}
+
+blockquote::after,blockquote::before {
+    content: ' " '
+}
+
+.arch .panel {
+    font-family: 'IM Fell English',Georgia,serif;
+    padding: 1em
+}
+
+.panel {
+    color: hsla(33deg,50%,10%,.75)
+}
+
+.tile {
+  display: flex;
+  justify-content:flex-start;
+  overflow: hidden;
+  margin: 0 auto;
+position: relative;
+} 
+
+.tile_inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+  color: #fff;
+  padding: 0;
+  line-height: 1.4;
+}
+
+.tile_link::after {
+ content:'';
+ position:absolute;
+ top:0;
+ bottom:0;
+ left:0;
+ right:0;
+ z-index:1
+}
+
+.tile_inner .tile_name {
+ color:#fff;
+ word-wrap:break-word;
+ overflow-wrap:break-word;
+ hyphens:auto;
+ display:block;
+
+}
+
+
+.tile:focus-within .tile_inner,
+.tile:hover .tile_inner {
+ background-image:linear-gradient(0deg,rgba(0,0,0,.5) 0,rgba(0,0,0,.4) 100%)
+}
+
+.tile_inner .tile_desc {
+ pointer-events:none;
+ display:block;
+ opacity:0;
+ transition:opacity .2s cubic-bezier(.4,0,.2,1),transform .2s cubic-bezier(.4,0,.2,1);
+ transform: translateY(0);
+ padding-left: 0.5em;
+}
+
+.tile:hover .tile_desc,
+.tile_link:focus+.tile_desc {
+-webkit-transition: all 300ms ease-out;
+        -moz-transition: all 300ms ease-out;
+        -o-transition: all 300ms ease-out;
+        -ms-transition: all 300ms ease-out;
+        transition: all 300ms ease-out;
+         -moz-transform: translateY( 10px);
+ opacity:1;
+
+  
+}
+
+a.tile_link {
+	 text-decoration: none;
+}
+
+.tile_inner h3 {
+	margin-top:0.3em;
+	padding-left: 0.5em;
+	font-weight: bold;
+}
+
+/* --------------------------------------------------------------------------------- 
+   hero
+   --------------------------------------------------------------------------------- */
+   
+ blockquote.hero { margin: 0 auto; padding: 0 1em; border-left: 3px solid hsl(33deg,5%,33%); color: hsl(33deg,50%,10%); font-style: normal;}
+ 
+ blockquote.hero:before {display: none;}
+ 
+ blockquote.hero:after {display: none;}
+ 
+ blockquote cite:before  {content: '— ';} 
+ 
+ blockquote cite  {color: hsl(33deg,5%,33%); margin-top: 1em;}
+ 
+ blockquote p {font-size: 110%;}
+ 

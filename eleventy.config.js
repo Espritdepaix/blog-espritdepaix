@@ -10,6 +10,12 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
 
+const htmlmin = require("html-minifier");
+const isProd = process.env.ELEVENTY_ENV === 'prod';
+
+
+
+
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
@@ -17,7 +23,9 @@ module.exports = function(eleventyConfig) {
 		"./public/": "/",
 		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 	});
-
+	
+	
+	
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
@@ -40,13 +48,21 @@ module.exports = function(eleventyConfig) {
 	// Filters
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
 		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
+		return DateTime.fromJSDate(dateObj).setLocale('fr').toFormat('dd LLLL yyyy ');
+		
 	});
 
 	eleventyConfig.addFilter('htmlDateString', (dateObj) => {
 		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-		return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+		return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('dd-LL-yyyy');
 	});
+	
+	// Short code
+	
+	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+	
+	
+
 
 	// Get the first `n` elements of a collection.
 	eleventyConfig.addFilter("head", (array, n) => {
@@ -91,6 +107,22 @@ module.exports = function(eleventyConfig) {
 			slugify: eleventyConfig.getFilter("slugify")
 		});
 	});
+
+	 eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
+    if (outputPath.endsWith(".html") && isProd ) {
+      return htmlmin.minify(content, {
+        collapseWhitespace: true,
+        removeComments: true,  
+        useShortDoctype: true,
+      });
+    }
+
+    return content;
+  });
+	
+	eleventyConfig.addFilter("limit", function (arr, limit) {
+  return arr.slice(0, limit);
+});
 
 	// Features to make your build faster (when you need them)
 

@@ -1,28 +1,62 @@
 ---
 layout: layouts/home.njk
 eleventyNavigation:
-  key: Home
+  key: Esprit de Paix
   order: 1
-numberOfLatestPostsToShow: 3
+numberOfLatestPostsToShow: 3 
 ---
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+
+
+{% css %} #rounded picture img {border-radius: 50%;width: 2in;  margin-top: 1.5em;  } {% endcss %}
+
+
+
+
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
+
+<div id="rounded">
+{% image "../public/img/mono.jpg", "La vague et l'océan" %}
+</div>
+
+
+
+
+
+<h1>Bienvenue </h1>
+<blockquote class="hero">
+<p>Dans le bruit et la tourmente,<br>
+je tourne mon regard au-dedans de moi,<br>
+là aucun combat à mener, pas d'opposé, ni opposition,<br>
+seul reste la nature de mon être qui est pure harmonie.</p>
+<cite>Librement inspiré de Joel S. Goldsmith</cite>
+
+</blockquote>
+
+<h2>A la une</h2>
+<div class="tile">
+     <a href="/blog/firstpost/">{% image "../public/img/lavague.jpg", "La vague et l'océan" %}</a>
+     <div class="tile_inner">
+        <h3><a href="/blog/firstpost/" class="tile_link"><span class="tile_name" style="color:#fff;  text-decoration: none;">La vague et l'océan</span></a></h3>
+        <span class="tile_desc">Une courte histoire pour illustrer notre véritable nature</span>
+     </div>
+</div>
+
+<div class="container">
+  <h2>Ecrits</h2>
+</div>
+
 {% include "postslist.njk" %}
 
-{% set morePosts = postsCount - numberOfLatestPostsToShow %}
-{% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
-{% endif %}
 
-{# List every content page in the project #}
-{#
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
-#}
+
+<form  action="https://tinyletter.com/Esprit-de-paix" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/Esprit-de-paix', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><label for="tlemail"><h2 style="text-align:left; padding-top:10px; padding-left:20px;">Newsletter</h2><p style="text-align:left; padding-left:20px;">Inscrivez-vous pour recevoir dans votre boite au lettre de nouveaux écrits.<br><small>(Vous pouvez vous désincrire à tout instant)</small></p></label><p><div class="form"> <input type="email" required name="email" id="tlemail" placeholder="Email" style="margin-left:15px"; /></p><input type="hidden" value="1" name="embed"/><input type="submit" style="margin-right:10px; margin-left:10px;" value="S'inscrire" /></p></div></form>
+        
+
+<h2>Remerciements</h2>
+<p>
+Merci à <a href="http://www.com/">Eric Meyer</a> pour l'inspiration du site <code> Esprit de paix.</code> 
+</p>

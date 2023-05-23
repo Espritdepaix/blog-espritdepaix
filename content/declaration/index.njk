@@ -1,0 +1,15 @@
+---
+layout: layouts/home.njk
+titre: Les déclarations
+---
+
+{% if events %}
+  <h2>{{titre}}</h2>
+	 {% for event in events %}
+	 
+	 <blockquote>{{ event.desc}}  </blockquote>
+	  {% endfor %}
+{% endif %}
+
+
+

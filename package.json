@@ -1,11 +1,11 @@
 {
-	"name": "eleventy-base-blog",
+	"name": "Esprit de Paix",
 	"version": "8.0.0",
 	"description": "A starter repository for a blog web site using the Eleventy site generator.",
 	"scripts": {
-		"build": "npx @11ty/eleventy",
+		"build": "cross-env ELEVENTY_ENV=prod npx @11ty/eleventy",
 		"build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-base-blog/",
-		"start": "npx @11ty/eleventy --serve --quiet",
+		"start": "cross-env ELEVENTY_ENV=dev npx @11ty/eleventy --serve --quiet",
 		"debug": "DEBUG=Eleventy* npx @11ty/eleventy",
 		"debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
 		"benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
@@ -15,8 +15,8 @@
 		"url": "git://github.com/11ty/eleventy-base-blog.git"
 	},
 	"author": {
-		"name": "Zach Leatherman",
-		"email": "zachleatherman@gmail.com",
+		"name": "Christian Delmas",
+		"email": "c.delmas67@gmail.com",
 		"url": "https://zachleat.com/"
 	},
 	"license": "MIT",
@@ -38,7 +38,13 @@
 		"@11ty/eleventy-plugin-bundle": "^1.0.4",
 		"@11ty/eleventy-plugin-rss": "^1.2.0",
 		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+		"@sherby/eleventy-plugin-files-minifier": "^1.1.1",
 		"luxon": "^3.3.0",
 		"markdown-it-anchor": "^8.6.7"
+	},
+	"dependencies": {
+		"cross-env": "^7.0.3",
+		"html-minifier": "^4.0.0",
+		"html-minifier-terser": "^7.2.0"
 	}
 }
