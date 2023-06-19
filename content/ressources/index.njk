@@ -1,0 +1,21 @@
+---
+titre: A méditer
+layout: layouts/home.njk
+eleventyNavigation:
+  key: A méditer
+  order: 3
+
+---
+{% css %}  p.sagesse {text-indent: 2em;} {% endcss %}
+{% css %}  p.graine {text-align: right; margin-top: 2em; text-decoration: underline;} {% endcss %}
+{% if graines %}
+  <h1 class="sagesse">{{titre}}</h2>
+  <h3>Les graines de sagesse sont tirées du livre <em class="sagesse">"La voie Infinie"</em> de Joël S. Goldsmith.</h3>
+	<p class="sagesse">Commencez votre vie spirituelle par la compréhension que tous les conflits doivent être réglés au-dedans de votre conscience.</p>
+	 {% for graine in graines | reverse | randomItem %}
+	
+	 <p class="sagesse">{{ graine.desc}}</p>
+	  {% endfor %}
+{% endif %}
+
+ <p class="graine">Toutes les semaines retrouvez 10 nouvelles graines de sagesse</p>

@@ -367,10 +367,7 @@
     }
 }
 
-#thoughts article p {
-    margin: .05em 0;
-    text-indent: 2em
-}
+
 
 #thoughts p.note {
     text-indent: 0;
@@ -965,6 +962,11 @@ article.recipe h4 {
     margin: 1.5em 0 0 .5em;
     font-size: smaller
 }
+
+ cite.poem {
+	margin-bottom: 2em;
+	display: block;
+ }
 
 
 

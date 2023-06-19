@@ -1,17 +1,48 @@
 ---
-title: This is my second post with a much longer title.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: La flamme de la liberté
+description: Un poème de Vimala Thakar
+date: 2018-12-04
+permalink: "blog/{{ title | slugify }}/index.html"
 tags:
-  - number 2
+  - prière
+tag: prière
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## Section Header
+J'ai cherché la Liberté dans les temples et les églises,  
+Dieu y était captif dans les cages faites de main d'homme.  
+   
+   
+J'ai cherché la Liberté dans la théologie et la philosophie,  
+La pensée y était gelée, la Vie y était de glace.  
 
-<a href="/blog/firstpost/">First post</a>
-<a href="/blog/thirdpost/">Third post</a>
+J'ai cherché la Liberté dans les révolutions de toute espèce,  
+Les masses y étaient adorées, l'homme y était assassiné.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Ainsi ma recherche a échoué pourtant, j'ai réussi,  
+J'ai appris à travers mes errements  que tout effort était vain.  
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+J'ai appris par mes échecs que toute recherche était vaine.  
+Finallement, je me suis tournée vers l'intérieur pour me reposer et me détendre.  
+
+Et voici que la Flamme de la liberté était là, resplendissante,  
+Elle flambait claire sur la torche de l'amour.
+
+<cite class="poem">-- Vimala Thakar dans le livre Un éternel voyage</cite>
+
+## Commentaire
+
+```
+Il n'y rien que je puisse changer, modifier ou guérir dans ce monde car je reconnais les apparences comme illusion, image mentale sans substance. Il n'y rien que je puisse demander à Dieu, car Dieu EST et il est maintenant. La seule chose que je puisse faire est de reconnaître la Présence de Dieu au-dedans de moi et dans le silence laisser la Vérité se réveler à elle-même.  
+  
+Paix, sois tranquille car Je suis là.
+
+```
+
+<pre class="La Parole"><code>	
+C'est dans la tranquillité et le repos que sera votre salut, C'est dans le calme et la confiance que sera votre force. Mais vous ne l'avez pas voulu! (Esaïe 30:15)
+
+</code></pre>
+<hr>
+
+.. *mais nous ne l'avons pas voulu.* A vrai dire, personne ne désire vivre dans la souffrance, le manque, la limitation ou la maladie. La paix et l'harmonie sont nos droits de naissance, mais quelque chose fait obstacle à cette vérité. Quel est ce voile qui nous empêche de faire l'expérience de Sa Grace ?
+

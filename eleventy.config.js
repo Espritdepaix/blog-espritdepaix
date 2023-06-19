@@ -13,6 +13,8 @@ const pluginImages = require("./eleventy.config.images.js");
 const htmlmin = require("html-minifier");
 const isProd = process.env.ELEVENTY_ENV === 'prod';
 
+	const eleventyGoogleFonts = require("eleventy-google-fonts");
+
 
 
 
@@ -23,6 +25,17 @@ module.exports = function(eleventyConfig) {
 		"./public/": "/",
 		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 	});
+	
+	// Google font
+	 eleventyConfig.addPlugin(eleventyGoogleFonts);
+	 
+	 // Random Item
+	eleventyConfig.addFilter("randomItem", (arr) => {
+  arr.sort(() => {
+    return 0.5 - Math.random();
+  });
+  return arr.slice(0,9);
+});
 	
 	
 	
@@ -60,6 +73,9 @@ module.exports = function(eleventyConfig) {
 	// Short code
 	
 	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+	
+
+
 	
 	
 

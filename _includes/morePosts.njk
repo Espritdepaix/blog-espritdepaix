@@ -1,0 +1,5 @@
+{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+{% if morePosts > 0 %}
+
+<p>{{ morePosts }}  post{% if morePosts != 1 %}s{% endif %} supplementaire{% if morePosts != 1 %}s{% endif %} présent{% if morePosts != 1 %}s{% endif %} dans la partie <a href="/blog/">archive</a>.</p>
+{% endif %}
