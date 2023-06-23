@@ -8,6 +8,7 @@ tags:
 tag: prière
 ---
 
+
 J'ai cherché la Liberté dans les temples et les églises,  
 Dieu y était captif dans les cages faites de main d'homme.  
    
@@ -27,7 +28,7 @@ Finallement, je me suis tournée vers l'intérieur pour me reposer et me détend
 Et voici que la Flamme de la liberté était là, resplendissante,  
 Elle flambait claire sur la torche de l'amour.
 
-<cite class="poem">-- Vimala Thakar dans le livre Un éternel voyage</cite>
+<cite class="poem"> -- Vimala Thakar dans le livre Un éternel voyage</cite>
 
 ## Commentaire
 

@@ -6,10 +6,12 @@ tag: être individuel
 permalink: "blog/{{ title | slugify }}/index.html"
 date: 2023-01-23
 ---
-Dans le bruit et la tourmente,  
-je tourne mon regard au-dedans de moi,  
-là aucun combat à mener, pas d'opposé, ni opposition,  
+<blockquote class="hero">
+Dans le bruit et la tourmente,  <br>
+je tourne mon regard au-dedans de moi, <br> 
+là aucun combat à mener, pas d'opposé, ni opposition,  <br>
 seul reste la nature de mon être qui est Dieu.
+</blockquote>
 
 ## Commentaire
 

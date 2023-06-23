@@ -7,7 +7,7 @@ tags: unicité
 tag: unicité
 
 ---
-Je suis vous. Mon intérêt est le votre ; puisque la seule est <code>même vie</code> anime notre être, la seue âme, l'unique Esprit. Tout ce que nous faisons l'un pour l'autre, nous le faisons à cause du principe qui nous lie ensemble.  
+Je suis vous. Mon intérêt est le votre ; puisque la seule est <code>même vie</code> anime notre être, la seule âme, l'unique Esprit. Tout ce que nous faisons l'un pour l'autre, nous le faisons à cause du principe qui nous lie ensemble.  
 
 ## Commentaire
 

@@ -932,8 +932,8 @@ article.recipe h4 {
 }
 
 #thoughts .dialogue,#thoughts .lyric,#thoughts .poem {
-    background-image: none;
-    padding: 1em
+    background-image: none
+    
 }
 
 #thoughts .lyric,#thoughts .poem {
