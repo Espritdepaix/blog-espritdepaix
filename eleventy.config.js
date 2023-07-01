@@ -26,6 +26,8 @@ module.exports = function(eleventyConfig) {
 		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 	});
 	
+	
+	
 	// Google font
 	 eleventyConfig.addPlugin(eleventyGoogleFonts);
 	 
@@ -37,6 +39,8 @@ module.exports = function(eleventyConfig) {
   return arr.slice(0,9);
 });
 	
+  
+
 	
 	
 	// Run Eleventy when these files change:

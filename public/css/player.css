@@ -1,3 +1,8 @@
+/* soundcite - v0.5.1 - 2017-07-10
+ * Copyright (c) 2017 Tyler J. Fisher and Northwestern University Knight Lab
+ */
+
+/*PLAYER CHROME*/
 
 @-webkit-keyframes spin {
 	from { -webkit-transform: rotate(0deg); opacity: 0.4; }
@@ -30,11 +35,16 @@
 }
 
 .soundcite-loaded {
-    border-radius: 6px;
-    padding: 0 5px 0 5px;
-    display: inline-block;
+    border-radius: 0.25em;
+    padding: 0.25em 1em 0.33em 1em;
     cursor: pointer;
+	font-family: "Monaco", "Courier New", "Courier";
+    font-size: .933em;
+    color: hsl(33deg,50%,10%);
+    border: solid #fff8;
+  
 }
+
 
 .soundcite-loaded:before {
     display: inline-block;
@@ -76,3 +86,9 @@
     border-left: .75em double black;
     border-right: .5em solid transparent;
 }
+
+
+
+
+
+

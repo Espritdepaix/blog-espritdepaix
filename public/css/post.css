@@ -407,6 +407,14 @@
     margin-inline: 2em -2em
 }
 
+#thoughts module {
+	 float: right;
+    max-width: 40%;
+    margin-block: .5em 1em;
+    margin-inline: 2em -2em
+	
+}
+
 #thoughts article img.pic.alt {
     float: left;
     margin-inline: -2em 2em
@@ -967,6 +975,38 @@ article.recipe h4 {
 	margin-bottom: 2em;
 	display: block;
  }
+ 
+.module.audio-player {
+  
+ border-top: 1px solid #b9b9b9;
+  color: #9f3131
+}
+
+.group::after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+@media (min-width:40em) {
+   .module.audio-player .dek {
+    font-size: 1.0em;
+	font-style: italic;
+}
+}
+
+.module {
+  width: 40%;
+  float: right;
+  margin: 0.25em 1em 2em 1em;
+    margin-top: 0.25em;
+    margin-right: 1em;
+    margin-left: 1em;
+}
+ 
+
 
 
 

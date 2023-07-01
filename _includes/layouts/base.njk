@@ -9,10 +9,12 @@
 <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 <link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
 <meta name="generator" content="{{ eleventy.generator }}"> 
-<link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
+
+
 {% css %}
 	{% include "public/css/main.css" %}
 	{% include "public/css/home.css" %}
+	{% include "public/css/player.css" %}
 {% endcss %}
 <link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
  {%  eleventyGoogleFonts 'https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&family=IM+Fell+English:ital@0;1&display=swap' %}
@@ -22,5 +24,6 @@
 {{ content | safe }}
 {% include "footer.njk" %}
 <!-- Current page: {{ page.url | htmlBaseUrl }} -->
+<script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
 </body>
 </html>

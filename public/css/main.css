@@ -137,13 +137,21 @@ img,video {
     height: auto
 }
 
-code,kbd,pre,tt,xmp {
+code,kbd,pre,tt,xmp,mark{
     font-family: "Monaco", "Courier New", "Courier";
     font-size: .933em;
     hyphens: none
 }
 
-code {
+mark{
+    color: hsl(25deg,75%,25%);
+	background: hsla(25deg,75%,25%,.1);
+	 padding: .15em .33em .1em;
+    border: solid #fff8;
+    border-width: 2px 0
+}
+
+code{
     color: hsl(25deg,75%,25%)
 }
 
