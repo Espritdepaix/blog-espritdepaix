@@ -1,6 +1,6 @@
 module.exports = {
 	title: "Esprit de Paix",
-	url: "https://esprit-de-paix.netlify.app/",
+	url: "https://espritdepaix.netlify.app",
 	language: "fr",
 	description: "I am writing about my experiences as a naval navel-gazer.",
 	author: {
