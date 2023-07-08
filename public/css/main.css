@@ -623,9 +623,11 @@ footer#global strong {
         background-position: 100% 40%,center
     }
 
-    #design,#excuse {
-        text-align: right
-    }
+   
+	
+	#wordpress, #excuse{
+		 text-align: right
+}
 
     #excuse,.sosumi {
         align-self: start;
