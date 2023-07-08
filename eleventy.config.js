@@ -10,10 +10,12 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
 
+
 const htmlmin = require("html-minifier");
 const isProd = process.env.ELEVENTY_ENV === 'prod';
 
 	const eleventyGoogleFonts = require("eleventy-google-fonts");
+const faviconPlugin = require("eleventy-favicon");
 
 
 
@@ -52,6 +54,7 @@ module.exports = function(eleventyConfig) {
 	// App plugins
 	eleventyConfig.addPlugin(pluginDrafts);
 	eleventyConfig.addPlugin(pluginImages);
+	eleventyConfig.addPlugin(faviconPlugin);
 
 	// Official plugins
 	eleventyConfig.addPlugin(pluginRss);
