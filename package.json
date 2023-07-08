@@ -38,6 +38,7 @@
 		"@11ty/eleventy-plugin-bundle": "^1.0.4",
 		"@11ty/eleventy-plugin-rss": "^1.2.0",
 		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+		"@netlify/plugin-lighthouse": "^4.1.1",
 		"@sherby/eleventy-plugin-files-minifier": "^1.1.1",
 		"eleventy-google-fonts": "^0.1.0",
 		"luxon": "^3.3.0",
