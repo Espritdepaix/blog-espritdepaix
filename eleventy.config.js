@@ -15,6 +15,9 @@ const isProd = process.env.ELEVENTY_ENV === 'prod';
 
 	const eleventyGoogleFonts = require("eleventy-google-fonts");
 
+const faviconPlugin = require("eleventy-favicon");
+
+
 
 
 
@@ -30,6 +33,8 @@ module.exports = function(eleventyConfig) {
 	
 	// Google font
 	 eleventyConfig.addPlugin(eleventyGoogleFonts);
+	 
+	   
 	 
 	 // Random Item
 	eleventyConfig.addFilter("randomItem", (arr) => {
@@ -52,6 +57,7 @@ module.exports = function(eleventyConfig) {
 	// App plugins
 	eleventyConfig.addPlugin(pluginDrafts);
 	eleventyConfig.addPlugin(pluginImages);
+	eleventyConfig.addPlugin(faviconPlugin);
 
 	// Official plugins
 	eleventyConfig.addPlugin(pluginRss);
