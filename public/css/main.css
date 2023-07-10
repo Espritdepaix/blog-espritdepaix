@@ -62,15 +62,15 @@ h2 {
 }
 
 h3 {
-    font-size: 167%
-}
-
-h4 {
     font-size: 133%
 }
 
-h5 {
+h4 {
     font-size: 115%
+}
+
+h5 {
+    font-size: 100%
 }
 
 h6 {
@@ -643,7 +643,7 @@ footer#global strong {
     }
 }
 
-#archipelago h4 {
+#archipelago h3 {
     text-align: center;
     margin: 0 0 .75em;
     font-family:  "Crimson Text", "Georgia", serif;
