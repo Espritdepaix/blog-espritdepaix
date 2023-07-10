@@ -15,7 +15,7 @@ const htmlmin = require("html-minifier");
 const isProd = process.env.ELEVENTY_ENV === 'prod';
 
 	const eleventyGoogleFonts = require("eleventy-google-fonts");
-const faviconPlugin = require("eleventy-favicon");
+
 
 const faviconPlugin = require("eleventy-favicon");
 
