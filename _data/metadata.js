@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Esprit de Paix - Je peux me reposer dans sa douce Présence",
+	title: "Esprit de Paix - Je peux me reposer dans Sa douce présence",
 	url: "https://espritdepaix.netlify.app",
 	language: "fr",
 	description: "Faites connaissance avec des textes mystiques de Joel S. Goldsmith et d'autres praticiens de la Voie Infinie. Mise à jour chaque mois avec des audio et des textes. ",
