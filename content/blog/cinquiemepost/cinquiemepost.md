@@ -25,12 +25,14 @@ Cet univers visible a sa racine dans le mental. Il cesse d'exister quand le ment
 <mark>Ce qui est réel est ce qui est éternel.</mark>
 Tous les anthropologistes ont découvert dans toutes leurs recherches qu'il y a toujours eu dans l'humanité des signes que l'occupation éternelle de cette humanité étaient de rechercher quelque chose de spirituel, autre chose que les apparences pour se sortir de ses apparences. C'est très, très, très important. Je me rends compte que tout tourne autour de ça. Toujours, toujours. Tout tourne autour de ça, parce que aucune maladie n'est réelle, ou bien elle sera guérie par des remèdes provisoirement si elle est guérie par des remèdes, ou bien elle sera guérie par ce que les humains appellent la mort parce qu'il n'y aura plus de maladies. Il y aura une autre forme de la même vie.  <mark>Je suis la vie, je ne suis pas une forme de vie.</mark>
  Je ne suis pas cette forme de vie qui est arrivée dans l'apparence de la vie sous forme d'un bébé après avoir été un fœtus. C'était aussi une apparence de la vie. Fœtus, je ne le suis pas. Je ne suis pas un bébé, je ne suis pas un fœtus. Je ne suis pas un adolescent. Je ne suis pas un homme mûr, je ne suis pas décrépit, un vieillard. Je suis la vie, je ne suis pas la forme de vie.  <mark>La forme de vie varie tout le temps.</mark>
- C'est pourquoi ce n'est pas réel.  <aside class="module audio-player">
+ C'est pourquoi ce n'est pas réel.  
+ <aside class="module audio-player">
 <div class="group">
  <p class="dek"> Transcription d'un extrait d'un enregistrement audio de Jean Pierre Canas- oct 1999</p>
-  <span class="soundcite " data-url="/media/jean-pierre-canas-1999-octobre_extrait.mp3"  data-plays="1" style="max-width: 40%;">Ecouter extrait</span>
+  <span class="soundcite " data-url="/media/mon-royaume-n'est-pas-de-ce-monde.mp3"  data-plays="1" style="max-width: 40%;">Ecouter extrait</span>
  </div>
-</aside> Alors pour avoir, c'est ça que nous cherchons, la réalité, la certitude que quoi qu'il arrive cela ne peut pas atteindre la réalité que je suis parce que je suis sûr d'avoir déjà été. Et du moment où je suis sûr que j'ai déjà été, je suis sûr que je serais de nouveau et que je sois ou que je ne sois pas dans une apparence, mais totalement indifférente ça, c'est  une chose que je me fous complètement.
+</aside>
+ Alors pour avoir, c'est ça que nous cherchons, la réalité, la certitude que quoi qu'il arrive cela ne peut pas atteindre la réalité que je suis parce que je suis sûr d'avoir déjà été. Et du moment où je suis sûr que j'ai déjà été, je suis sûr que je serais de nouveau et que je sois ou que je ne sois pas dans une apparence, mais totalement indifférente ça, c'est  une chose que je me fous complètement.
  Alors ce que nous cherchons, c'est de devenir cette réalité que nous sommes déjà, que notre essence est vraie. L'essence de ma vie est vraie. Et ce que nous percevons avec nos cinq sens physiques est toujours en train de changer, toujours.  
 
 

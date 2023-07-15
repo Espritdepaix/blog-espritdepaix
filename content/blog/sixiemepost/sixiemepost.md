@@ -51,7 +51,7 @@ L'esprit ne s'occupe pas de notre bien-être. L'esprit ne peut pas s'occuper de 
  <aside class="module audio-player">
 <div class="group">
  <p class="dek"> Transcription d'un extrait d'un enregistrement audio de Jean Pierre Canas- nov 1998</p>
-  <span class="soundcite " data-url="/media/Jean-Pierre-Canas-1998-Nov.mp3"  data-plays="1" style="max-width: 40%;">Ecouter extrait</span>
+  <span class="soundcite " data-url="/media/regardez-en-haut.mp3"  data-plays="1" style="max-width: 40%;">Ecouter extrait</span>
  </div>
 </aside>
 C'est pour ça qu'il nous faut de la force. Donc, dans cette histoire, le jour de Noé, il était obligé de regarder en haut. Il marchait avec Dieu et il ne se détournait ni à droite ni à gauche.
