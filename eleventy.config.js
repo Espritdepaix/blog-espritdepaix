@@ -11,7 +11,7 @@ const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
 
 
-const htmlmin = require("html-minifier");
+
 const isProd = process.env.ELEVENTY_ENV === 'prod';
 
 	const eleventyGoogleFonts = require("eleventy-google-fonts");
@@ -136,17 +136,7 @@ module.exports = function(eleventyConfig) {
 		});
 	});
 
-	 eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
-    if (outputPath.endsWith(".html") && isProd ) {
-      return htmlmin.minify(content, {
-        collapseWhitespace: true,
-        removeComments: true,  
-        useShortDoctype: true,
-      });
-    }
 
-    return content;
-  });
 	
 	eleventyConfig.addFilter("limit", function (arr, limit) {
   return arr.slice(0, limit);

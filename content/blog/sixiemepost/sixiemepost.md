@@ -28,7 +28,7 @@ qui vous supportent au-dessus du déluge, même de toutes les épreuves et tribu
  L'instabilité des eaux, c'est l'instabilité de la pensée humaine. Et, la domination qu'il y a, par exemple, dans l'apocalypse, où on ne voit plus qu'une mer de cristal, c'est à dire où il n'y a pas une seule ride, c'est la pensée humaine qui a été dé-hypnotisée et qui n'a plus aucune inquiétude, plus aucun doute, plus aucun effort à faire parce qu'elle est dans la paix de moi et mon père nous sommes un.  
  <figure>
  {% image "./Noe-branche-olivier.webp", "colombe-ramene-Noe-branche-olivierle-deluge-Miniature-tiree-Miroir-Humaine-Salvation-enlumine-ecole-francaise-XVe-siecle-Chantilly-musee-Conde_0" %}
- <figcaption>Colombe ramène la branche d'olivier -Noë.</figcaption>
+ <figcaption>Colombe ramenant la branche d'olivier - Noë.</figcaption>
  </figure>
   Donc, dans cette arche de Noé, il n'y avait qu'une seule ouverture qui regardait en haut. C'est une façon d'allégoriser le fait de se détourner du déluge, de se détourner de l’agitation de la pensée humaine. 
  Il ne pouvait matériellement pas regarder les eaux monter, puisqu'il ne les voyait pas.  
@@ -59,7 +59,9 @@ C'est pour ça qu'il nous faut de la force. Donc, dans cette histoire, le jour d
 Il allait son chemin et il attendait. Il a attendu 40 jours, 40 nuits. Il a attendu longuement jusqu'à ce qu'ils reçoivent la preuve qu'il y avait l'harmonie par le retour d'une colonne sur l'arche avec un rameau d'olivier. 
 
 <pre class="La Parole"><code>
-	Tu n'aura pas d'autres dieux devant ma face (Ex. 20:3))			
+	Tu n'aura pas d'autres dieux devant ma face (Ex. 20:3))		
 </code></pre>
 
  <hr>
+ 
+ Dieu est conscience. Dieu est notre conscience individuelle. Nous avons là une phraselogie toute moderne
