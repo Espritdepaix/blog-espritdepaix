@@ -1,16 +1,15 @@
 ---
 title: Regardez-en-haut
 description: Tu n'aura qu'un seul Dieu devant ma face
-date: 2023-07-13
+date: 2023-08-13
 draft: true
 tags:
-  - éunicité
+  - unicité
 tag: unicité
 permalink: "blog/{{ title | slugify }}/index.html"
 ---
 <blockquote class="hero">
-Dans la tranquillité et la confiance, dans la réceptivité et dans le silence,
- l'amour se révèle, révélant sa présence réconfortante 
+Dans la tranquillité et la confiance, dans la réceptivité et dans le silence,l'amour se révèle, révélant sa présence réconfortante 
 et vous assure qu’il y a là, en dessous de vous, les bras éternels qui vous soutiennent,
 qui vous supportent au-dessus du déluge, même de toutes les épreuves et tribulations.
 <cite class="poem">Jean Pierre Canas</cite>
@@ -59,9 +58,11 @@ C'est pour ça qu'il nous faut de la force. Donc, dans cette histoire, le jour d
 Il allait son chemin et il attendait. Il a attendu 40 jours, 40 nuits. Il a attendu longuement jusqu'à ce qu'ils reçoivent la preuve qu'il y avait l'harmonie par le retour d'une colonne sur l'arche avec un rameau d'olivier. 
 
 <pre class="La Parole"><code>
-	Tu n'aura pas d'autres dieux devant ma face (Ex. 20:3))		
+	Tu n'aura pas d'autres dieux devant ma face (Ex. 20:3)
+	
+   Tu ne te prosterneras point devant un autre dieu; car l'Éternel porte le nom de jaloux, il est un Dieu jaloux.	 (Exode 34:14)
 </code></pre>
 
  <hr>
  
- Dieu est conscience. Dieu est notre conscience individuelle. Nous avons là une phraselogie toute moderne
+ Dieu est conscience. Dieu est notre conscience individuelle. Nous avons là une phraselogie toute moderne. 
