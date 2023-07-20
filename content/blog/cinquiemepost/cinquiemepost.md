@@ -36,11 +36,20 @@ Tous les anthropologistes ont découvert dans toutes leurs recherches qu'il y a 
  Alors ce que nous cherchons, c'est de devenir cette réalité que nous sommes déjà, que notre essence est vraie. L'essence de ma vie est vraie. Et ce que nous percevons avec nos cinq sens physiques est toujours en train de changer, toujours.  
 
 
+```
+Je suis la vie, je ne suis pas la forme de vie.
 
+Je suis la loi de la Vie, le Principe créateur, l'Esprit agissant sur mes affaires et dans mes relations et je n'ai besoin de rien d'autre. Je ne reconnais aucune autre loi que la loi de Dieu qui vit en moi.
+Tout le bien infini de Dieu est incorporé au-dedans de moi. Je suis ce centre à partir duquel la grâce de Dieu s'écoule en moi et à travers-moi, non pas pour mon bien personnel, mais pour tous les êtres qui gravitent dans l'orbite de ma conscience.
+```
  
- <br>
+ 
+
  <pre class="La Parole"><code>
-	Mon royaume n'est pas de ce monde (Jean 18:36)			
+  Mon royaume n'est pas de ce monde. (Jean 18:36)
+			
+  Le lieu où je me tiens est terre sainte. (Exode 3:5)
+  
 </code></pre>
 
  <hr>
