@@ -5,7 +5,7 @@ date: 2023-05-01
 tags:
   - unicité
 tag: unicité
-permalink: "blog/{{ title | slugify }}/index.html"
+permalink: "posts/{{ title | slugify }}/index.html"
 ---
 C'est l'histoire de la vague et de l'océan. La vague avait pris naissance à la surface de l'océan. Elle grandissait sans cesse et finit finalement par retourner dans l'océan. Durant sa vie, elle était certaine d'avoir créé sa propre identité, d'avoir sa vie séparée de sa source. Mais la vérité est qu'elle n'avait jamais été que l'expression de l'océan à sa surface. L'océan avait créé, maintenu et soutenu l'élan de la vague. La vague et l'océan n'ont jamais été séparés. Ils ne faisaient qu'Un. Seul un sentiment de séparation avait fait croire à la vague qu'elle avait sa propre vie indépendante de sa source.
 

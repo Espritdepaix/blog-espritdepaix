@@ -82,6 +82,10 @@ module.exports = function(eleventyConfig) {
 		return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('dd-LL-yyyy');
 	});
 	
+	eleventyConfig.addFilter('w3DateFilter', (dateObj) => {
+		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+		return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+	});
 	// Short code
 	
 	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);

@@ -6,7 +6,7 @@ draft: true
 tags:
   - unicité
 tag: unicité
-permalink: "blog/{{ title | slugify }}/index.html"
+permalink: "posts/{{ title | slugify }}/index.html"
 ---
 <blockquote class="hero">
 Dans la tranquillité et la confiance, dans la réceptivité et dans le silence,l'amour se révèle, révélant sa présence réconfortante 

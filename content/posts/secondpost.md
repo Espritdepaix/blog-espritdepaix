@@ -2,7 +2,7 @@
 title: La flamme de la liberté
 description: Un poème de Vimala Thakar
 date: 2023-06-04
-permalink: "blog/{{ title | slugify }}/index.html"
+permalink: "posts/{{ title | slugify }}/index.html"
 tags:
   - prière
 tag: prière

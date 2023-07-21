@@ -5,7 +5,7 @@ date: 2023-07-20
 tags:
   - éternité
 tag: éternité
-permalink: "blog/{{ title | slugify }}/index.html"
+permalink: "posts/{{ title | slugify }}/index.html"
 ---
 {% css %} .soundcite-loaded { background-color: rgb(112,56,16);} {% endcss %} 
 
