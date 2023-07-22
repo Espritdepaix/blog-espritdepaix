@@ -509,7 +509,7 @@ body.about #navigate #navlinks #aboutsite {
 
 #navlinks li.active a[href] {
     color: hsl(33deg,99%,33%);
-	padding: .25em .5em
+	
    
 }
 
