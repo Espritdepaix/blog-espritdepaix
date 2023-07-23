@@ -468,7 +468,14 @@ body>#main,body>#thoughts {
 	display: block;
 	padding: 0;
 	color: hsla(33deg,50%,10%,0.75);
+	
 }
+
+#navlinks li.active a[href] {
+    color: hsl(33deg,99%,33%)	   
+}
+
+
 body.arch #navigate #navlinks #archLink,
 body.css #navigate #navlinks #cssLink,
 body.tools #navigate #navlinks #toolsLink,
@@ -501,16 +508,14 @@ body.about #navigate #navlinks #aboutsite {
     padding: .25em .5em
 }
 
-#navlinks li a[href] {
+#navlinks a[href] {
     display: block;
-    
+    padding: 0;
     color: hsla(33deg,50%,10%,.75)
 }
 
 #navlinks li.active a[href] {
-    color: hsl(33deg,99%,33%);
-	
-   
+    color: hsl(33deg,99%,33%)	   
 }
 
 body.about #navigate #navlinks #aboutsite,body.arch #navigate #navlinks #archLink,body.css #navigate #navlinks #cssLink,body.feeds #navigate #navlinks #feedsLink,body.other #navigate #navlinks #otherLink,body.speak #navigate #navlinks #speakLink,body.tools #navigate #navlinks #toolsLink,body.write #navigate #navlinks #writeLink {
