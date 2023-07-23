@@ -501,9 +501,9 @@ body.about #navigate #navlinks #aboutsite {
     padding: .25em .5em
 }
 
-#navlinks a[href] {
+#navlinks li a[href] {
     display: block;
-    padding: 0;
+    
     color: hsla(33deg,50%,10%,.75)
 }
 

@@ -5,7 +5,7 @@ titre: Les déclarations
 
 {% if events %}
   <h2>{{titre}}</h2>
-	 {% for event in events | reverse %}
+	 {% for event in events %}
 	 
 	 <blockquote>{{ event.desc}}  </blockquote>
 	  {% endfor %}
