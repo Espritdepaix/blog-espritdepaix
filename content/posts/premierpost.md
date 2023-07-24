@@ -1,6 +1,6 @@
 ---
 title: La vague et l'océan
-description: Une courte histoire pour illustrer notre véritable nature
+description: La vague et l'océan. Une courte histoire pour illustrer notre véritable nature
 date: 2023-05-01
 tags:
   - unicité

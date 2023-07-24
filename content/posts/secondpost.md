@@ -1,6 +1,6 @@
 ---
 title: La flamme de la liberté
-description: Un poème de Vimala Thakar
+description: Commentaire du texte de Vimala Thakar dans le livre Un éternel voyage
 date: 2023-06-04
 permalink: "posts/{{ title | slugify }}/index.html"
 tags:
@@ -23,7 +23,7 @@ Ainsi ma recherche a échoué pourtant, j'ai réussi,
 J'ai appris à travers mes errements  que tout effort était vain.  
 
 J'ai appris par mes échecs que toute recherche était vaine.  
-Finallement, je me suis tournée vers l'intérieur pour me reposer et me détendre.  
+Finalement, je me suis tournée vers l'intérieur pour me reposer et me détendre.  
 
 Et voici que la Flamme de la liberté était là, resplendissante,  
 Elle flambait claire sur la torche de l'amour.

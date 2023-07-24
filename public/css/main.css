@@ -473,19 +473,6 @@ body>#main,body>#thoughts {
 
 
 
-
-body.arch #navigate #navlinks #archLink,
-body.css #navigate #navlinks #cssLink,
-body.tools #navigate #navlinks #toolsLink,
-body.write #navigate #navlinks #writeLink,
-body.speak #navigate #navlinks #speakLink,
-body.other #navigate #navlinks #otherLink,
-body.feeds #navigate #navlinks #feedsLink,
-body.about #navigate #navlinks #aboutsite {
-	font-weight: 600;
-	font-style: italic;
-}
-
 #archipelago ul,#navlinks {
     display: flex;
     flex-wrap: wrap;
@@ -540,12 +527,7 @@ body.about #navigate #navlinks #aboutsite,body.arch #navigate #navlinks #archLin
         padding: .25em 1em
     }
 
-    body.about #navigate #navlinks #aboutsite,body.arch #navigate #navlinks #archLink,body.css #navigate #navlinks #cssLink,body.feeds #navigate #navlinks #feedsLink,body.other #navigate #navlinks #otherLink,body.speak #navigate #navlinks #speakLink,body.tools #navigate #navlinks #toolsLink,body.write #navigate #navlinks #writeLink {
-        font-weight: 500;
-        font-size: 110%;
-        background: url(/img/urhere.png)100% 50%/1em auto no-repeat;
-        padding-right: 1.33em
-    }
+   
 
     #main {
         grid-column: 1/ - 1;

@@ -1,6 +1,7 @@
 ---
 layout: layouts/home.njk
 title: Contact
+description: Page contact pour joindre le site Esprit de paix
 eleventyNavigation:
   key: Contact
   order: 4

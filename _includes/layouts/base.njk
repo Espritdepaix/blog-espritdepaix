@@ -10,6 +10,7 @@
 <link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
 <meta name="generator" content="{{ eleventy.generator }}"> 
 <meta name="msvalidate.01" content="6C61AE730DEA51BC1FADAC9415151BD9" />
+{% include "graphs.njk" %}
 {% favicon './favicon.svg' %}
 {% css %}
 	{% include "public/css/main.css" %}
@@ -24,6 +25,6 @@
 {{ content | safe }}
 {% include "footer.njk" %}
 <!-- Current page: {{ page.url | htmlBaseUrl }} -->
-<script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
+<script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'> defer</script>
 </body>
 </html>
