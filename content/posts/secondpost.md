@@ -30,7 +30,7 @@ Elle flambait claire sur la torche de l'amour.
 
 <cite class="poem"> -- Vimala Thakar dans le livre Un éternel voyage</cite>
 
-## Commentaire
+
 
 ```
 Il n'y rien que je puisse changer, modifier ou guérir dans ce monde car je reconnais les apparences comme illusion, image mentale sans substance. Il n'y rien que je puisse demander à Dieu, car Dieu EST et il est maintenant. La seule chose que je puisse faire est de reconnaître la Présence de Dieu au-dedans de moi et dans le silence laisser la Vérité se réveler à elle-même.  
@@ -44,6 +44,8 @@ C'est dans la tranquillité et le repos que sera votre salut, C'est dans le calm
 
 </code></pre>
 <hr>
+
+## Commentaire
 
 .. *mais nous ne l'avons pas voulu.* A vrai dire, personne ne désire vivre dans la souffrance, le manque, la limitation ou la maladie. La paix et l'harmonie sont nos droits de naissance, mais quelque chose fait obstacle à cette vérité. Quel est ce voile qui nous empêche de faire l'expérience de Sa Grace ?
 

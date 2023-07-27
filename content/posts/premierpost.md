@@ -9,9 +9,6 @@ permalink: "posts/{{ title | slugify }}/index.html"
 ---
 C'est l'histoire de la vague et de l'océan. La vague avait pris naissance à la surface de l'océan. Elle grandissait sans cesse et finit finalement par retourner dans l'océan. Durant sa vie, elle était certaine d'avoir créé sa propre identité, d'avoir sa vie séparée de sa source. Mais la vérité est qu'elle n'avait jamais été que l'expression de l'océan à sa surface. L'océan avait créé, maintenu et soutenu l'élan de la vague. La vague et l'océan n'ont jamais été séparés. Ils ne faisaient qu'Un. Seul un sentiment de séparation avait fait croire à la vague qu'elle avait sa propre vie indépendante de sa source.
 
-## Commentaire
-
-
 
 
 ```
@@ -31,6 +28,8 @@ Notre terrain de jeu est infini et finalement tout né dans la conscience et tou
 
 
 <hr>
+
+## Commentaire
 
 Il y a deux courants en nous. La réalité de notre être qui est Esprit et le concept de ce que l'on croit être, un être séparé de sa source. Quand nous élevons notre conscience spirituelle, quand nous reconnaissons notre véritable nature, nous faisons l'expérience de nouvelles harmonies dans notre vie. <br>
 Une autre illustration de la vague et de l'océan est donnée par le Vénérable <a href="https://www.youtube.com/embed/T9SwA6OC3Fg" target="_blank">Thich Nhat Hanh</a> dans cette vidéo. <br>

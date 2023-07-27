@@ -15,7 +15,7 @@ permalink: "posts/{{ title | slugify }}/index.html"
 <cite class="poem">Shankara</cite>
 </blockquote>
 
-## Commentaire
+## Ecrit mystique
 
 Cet univers visible a sa racine dans le mental. Il cesse d'exister quand le mental est annihilé. C'est-à-dire quand le mental n'est pas en opération dans notre expérience, l'univers visible cesse d’exister quand le mental n'est pas en opération dans mon expérience. Par conséquent dissous ton mental dit Shankara.   
 
@@ -30,8 +30,8 @@ Tous les anthropologistes ont découvert dans toutes leurs recherches qu'il y a 
  C'est pourquoi ce n'est pas réel.  
  <aside class="module audio-player">
 <div class="group">
- <p class="dek"> Transcription d'un extrait d'un enregistrement audio de Jean Pierre Canas- oct 1999</p>
-  <span class="soundcite " data-url="/media/mon-royaume-n'est-pas-de-ce-monde.mp3"  data-plays="1" style="max-width: 40%;">Ecouter extrait</span>
+ <p class="dek"> Transcription d'un extrait d'un enregistrement audio de Jean-Pierre Canas- oct 1999</p>
+  <span class="soundcite " data-url="/media/mon-royaume-n'est-pas-de-ce-monde.mp3"  data-plays="1" style="max-width: 40%;">Écouter extrait</span>
  </div>
 </aside>
  Alors pour avoir, c'est ça que nous cherchons, la réalité, la certitude que quoi qu'il arrive cela ne peut pas atteindre la réalité que je suis parce que je suis sûr d'avoir déjà été. Et du moment où je suis sûr que j'ai déjà été, je suis sûr que je serais de nouveau et que je sois ou que je ne sois pas dans une apparence, mais totalement indifférente ça, c'est  une chose que je me fous complètement.
@@ -55,6 +55,10 @@ Tout le bien infini de Dieu est incorporé au-dedans de moi. Je suis ce centre �
 </code></pre>
 
  <hr>
+ 
+ ## Commentaire
+ 
 J'ai longtemps cru que le mental était une mauvaise chose, que c'était ce qui faisait obstacle à la vérité. Puis j'ai compris que le mental n'est ni bon ni mauvais, qu'il n'est que l'instrument de la conscience. Il y a le mental humain conditionné par nos croyances erronées et le mental universel ou inconditionné qui a sa source et qui fonctionne comme idée spirituelle. de par sa nature, l'idée spirituelle est parfaite.  
   
 "Mon royaume n'est pas de ce monde" aussi n'essayez pas d'emmener Dieu dans ce monde, n'essayez pas de prier en demandant à Dieu d'intervenir pour qui que ce soit ou quoi que ce soit. Ceci renvoie à la prière mystique qui n'est jamais une demande ou une tentative d'influencer Dieu, mais la vision intérieure de l'harmonie, que cela EST déjà.
+
