@@ -1,8 +1,8 @@
 ---
 title: Regardez-en-haut
 description: Tu n'aura qu'un seul Dieu devant ma face
-date: 2023-08-13
-draft: true
+date: 2023-08-01
+
 tags:
   - étude biblique 
 tag: 
