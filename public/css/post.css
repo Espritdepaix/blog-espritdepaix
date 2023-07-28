@@ -313,7 +313,22 @@
     font-family: inherit;
     line-height: 1;
     font-style: italic;
-    background: radial-gradient(55% 55%at 50% 50%,hsla(34deg,38%,99%,.8) 75%,transparent 100%),url(/ui/i/hamonshu/prevnext-center.png)center/contain no-repeat
+	text-align: center;
+    background: radial-gradient(55% 55%at 50% 50%,hsla(34deg,38%,99%,.8) 75%,transparent 100%),url(/img/prevnext-center.png)center/contain no-repeat
+}
+
+.prev-next p {
+	margin: 0;
+}
+.prev-next .prev {
+	grid-row: 1;
+	grid-column: 1;
+	text-align: right;
+	padding-right: 2em;
+	margin-right: -4px;
+	background:
+		linear-gradient(270deg, hsla(34deg,38%,99%,0.75), hsla(34deg,38%,99%,0) 3em),
+		url(/ui/i/hamonshu/prevnext-left.png) 100% 50% / 4em auto no-repeat;
 }
 
 #commentform>header h3,#thoughts #comments li[class*=back] p,#thoughts .entry,.prev-next p {
