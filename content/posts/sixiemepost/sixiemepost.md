@@ -73,10 +73,8 @@ Il allait son chemin et il attendait. Il a attendu 40 jours, 40 nuits. Il a atte
  ## Commentaire
  
 <i> ...réfléchir à la réalité de cet enseignement.</i>
-Pour la plupart des gens, la Bible ne contient que des récits historiques parfois plus abracadabresques les uns que les autres, mais si elle est discernée spirituellement, avec l'oeil unique et non pas lue de manière littérale, elle raconte toujours le passage de l'état de conscience mortel vers un état de conscience plus élevé, une conscience illuminéé, éclairée par l'activité de la Vérité.
-  
-  Dieu est conscience individuelle infinie, ma conscience comme la vôtre et nous pouvons utiliser une phraséologie plus moderne, et nous le pouvons en effet. Jean-Pierre Canas remplaçait Dieu par Conscience/vie éternelle. Mais attention de ne pas laisser le mental humain faire de Dieu une « image taillée. » Le mental humain est, en effet, avide de nouveaux concepts, de nouvelles religions, de nouvelles thérapies, du dernier truc à la mode qui va nous délivrer du mal.
-  
+Pour la plupart des gens, la Bible ne contient que des récits historiques parfois plus abracadabresques les uns que les autres, mais si elle est discernée spirituellement, avec l'oeil unique et non pas lue de manière littérale, elle raconte toujours le passage d'un état de conscience mortel vers un état de conscience plus élevé, une conscience illuminéé, éclairée par l'activité de la Vérité.
+    
   La Parole de vérité est connue depuis l'aube des temps. Elle a été reconnue par nombre de sages et de Maîtres spirituels. Elle est contenue dans les Écritures et dans les écrits de Joêl S. Goldsmith. Mais la Parole de vérité ne suffit pas. Elle doit être rendue vivante dans notre conscience. Dieu n'est pas un concept, mais une expérience "vivante", une réalité rendue tangible dans notre vie.
     
 	De la Parole de vérité, nous devons passer à l'Esprit de Vérité, de l'écrit mystique au contact mystique.
