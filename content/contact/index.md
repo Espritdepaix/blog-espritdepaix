@@ -10,7 +10,7 @@ eleventyNavigation:
 
 Je souhaite sincérement que les contenus partagés vous inspirent. La démarche est fondée sur l'idée de partage et d'échange fraternel. Vos questions, commentaires et suggestions sont les bienvenus. 
 
-Vous pouvez me joindre à cette adresse <a href="javascript:location='mailto:\u0063\u002e\u0064\u0065\u006c\u006d\u0061\u0073\u0036\u0037\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0">email</a>
+Vous pouvez me joindre à cette adresse email <a href="mailto:c.delmas67@gmail.com">c.delmas67@gmail.com</a>
 
 
 
