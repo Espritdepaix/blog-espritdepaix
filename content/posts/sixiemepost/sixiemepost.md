@@ -1,6 +1,6 @@
 ---
 title: Regardez-en-haut
-description: Tu n'aura qu'un seul Dieu devant ma face
+description: interprétation spirituelle de l'histoire de Noé
 date: 2023-08-01
 
 tags:
@@ -39,11 +39,11 @@ qui vous supportent au-dessus du déluge, même de toutes les épreuves et tribu
 
 Notre recherche du silence est basée sur une certitude que, nous devons peu à peu acquérir par l'étude, la méditation et la réflexion sur beaucoup de choses qui se passent, que nous voyons se passer. Certitude que du moment que l'esprit de vie éternelle est au-dedans de moi, parce que s'il n'était pas au-dedans de moi, je ne pourrais pas suivre cette démarche que nous faisons. Je ne pourrais pas essayer de me débarrasser de cette emprise des apparences. Donc, du moment que cet esprit m'a mis sur cette voie, c'est d'ailleurs écrit ça dans La Voix Infinie, du moment que Dieu m'a mis sur cette route-là, il ne m'abandonnera jamais. C'est ce qui est écrit tout au long de la Bible aussi.
   
-  « Je ne t'abandonnerai jamais, je ne t’oublierai jamais. »  
+  <q> Je ne t'abandonnerai jamais, je ne t’oublierai jamais.  </q>
   
 C'est nous qui oublions. Et c'est pour ça que nous avons besoin de force pour lutter constamment, non pas contre le diable qui n'existe pas, non pas contre le mal qui n'existe pas, non pas contre la maladie qui est une croyance fausse, non pas contre les craintes de ne pas avoir de travail, de ne pas avoir de revenus, de ne pas avoir de logement, de ne pas avoir ceci, ne pas avoir cela, mais de nous dire « Puisque c'est la vie éternelle qui se vit à travers moi...Et attention, attention, encore une chose-là, il ne faut regarder qu’en haut. Regardez qu’en haut. 
   
-  « Et les yeux d’en haut sont trop purs pour voir les vicissitudes du bien et du mal. »  
+  <q>Et les yeux d’en haut sont trop purs pour voir les vicissitudes du bien et du mal. </q> 
   
  Donc, cette vie éternelle, qui se vit à travers nous, ne se vit pas pour notre compte. L'esprit de vie ne nous met pas dans l'harmonie pour nous ; il n'y a pas de Dieu qui s'occupe de nous. C'est de trouver Dieu en nous, parce qu'en Dieu, il n'est pas possible qu'il y ait de discordes. Et cette harmonie, qui se vit à travers nous, se vit à travers nous pour son propre compte. C'est exactement le sens de cette citation de <a href="https://joelgoldsmith.com/">Joël S. Goldsmith</a>, sur laquelle il a longuement travaillé et dans laquelle il a cru au début que c'était pour lui, lorsqu'il est dit « C'est lui qui accomplit ce qu'il me donne à faire. »  Joël a cru pendant longtemps, il le dit, il a cru pendant longtemps que l'Esprit faisait pour lui ce dont lui avait besoin. Mais, à la fin, assez tard dans son évolution, il s'est rendu compte que pas du tout.
 
