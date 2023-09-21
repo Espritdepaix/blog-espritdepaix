@@ -1,7 +1,7 @@
 ---
 title: Il marchait avec Dieu
 description: marcher vers l'union consciente avec l'Esprit 
-date: 2023-08-31
+date: 2023-07-01
 
 tags:
   - étude biblique 
