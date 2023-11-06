@@ -1,7 +1,7 @@
 ---
 title: Comprendre spirituellement la Bible
 description:  
-date: 2023-19-10
+date: 2023-09-10
 
 tags:
   - étude biblique 
