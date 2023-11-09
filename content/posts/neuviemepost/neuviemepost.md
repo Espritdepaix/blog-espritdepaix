@@ -9,9 +9,8 @@ tag:
   - personnel
 permalink: "posts/{{ title | slugify }}/index.html"
 ---
+
 {% image "./lalionne.webp", "La lionne et la gazelle" %}  
-
-
 
 C'est l'histoire d'une lionne et d'une gazelle.  
 En principe la lionne mange la gazelle. 
