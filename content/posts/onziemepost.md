@@ -59,18 +59,8 @@ l’infinité. C’est seulement en vertu du fait que Dieu est notre
 être que n’importe qui peut dire :
 
 ```
-	Je suis infini ; je suis éternel ; je suis immortel – non pas en
-moi-même et par moi-même, séparé et hors de Dieu, mais parce
-que Dieu est la vie et substance de mon être. L’infinité est la
-quantité, et la perfection est la qualité de l’être.
-	La Parole est faite chair ; toute chair est formée de la Parole
-de Dieu. Par conséquent, mon corps est la parfaite Parole de
-Dieu faite chair, rendue visible. Mon corps étant de l’essence et
-substance de Dieu et gouverné par Dieu, il ne peut incorporer
-que l’activité, l’harmonie, la grâce, la joie et la beauté de Dieu.
-Rien d’extérieur ne peut affecter la perfection de mon corps, que
-ce soit sous la forme de nourriture, de microbes, ou de pensées
-venant d’autres personnes. Rien d’étranger à Dieu ne peut entrer pour le souiller ou mentir.
+	Je suis infini ; je suis éternel ; je suis immortel – non pas en moi-même et par moi-même, séparé et hors de Dieu, mais parce que Dieu est la vie et substance de mon être. L’infinité est la quantité, et la perfection est la qualité de l’être.
+	La Parole est faite chair ; toute chair est formée de la Parole de Dieu. Par conséquent, mon corps est la parfaite Parole de Dieu faite chair, rendue visible. Mon corps étant de l’essence et substance de Dieu et gouverné par Dieu, il ne peut incorporer que l’activité, l’harmonie, la grâce, la joie et la beauté de Dieu. Rien d’extérieur ne peut affecter la perfection de mon corps, que ce soit sous la forme de nourriture, de microbes, ou de pensées venant d’autres personnes. Rien d’étranger à Dieu ne peut entrer pour le souiller ou mentir.
 ```
 
  <cite class="poem"> -- Joel S. Goldsmith. <b>Pratique de la Présence</b>. Chapitre IV : La nature infinie de l'Ëtre individuel</cite>
@@ -83,5 +73,5 @@ Tout petit, aussi loin que je me souvienne résonnait en moi ces mots <strong>" 
 
 Il m'a fallu beaucoup de temps pour comprendre que ce n'était pas de mort physique qu'il s'agissait, mais de la perte de nos croyances humaines, la croyance d'un moi séparé de Dieu. C'est une expérience que nous devons faire en ce moment même. "Le vieil homme" doit mourir pour laisser apparaître le nouvel homme.
 
-Ce chemin est un chemin de renoncement et d'humilité et plus j'avance et plus je perçois le complet abandon de soi que cela demande.
+Ce chemin est un chemin de renoncement et d'humilité et plus j'avance, et plus je perçois le complet abandon de soi que cela demande.
 
