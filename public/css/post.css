@@ -127,7 +127,7 @@
 .arch #related ul {
     margin: 0 0 1.33em .125em;
     padding: 0 0 1em;
-    border-bottom: 1px solid silver;
+   
     list-style: none;
     columns: 2
 }
@@ -1028,6 +1028,16 @@ font-size:130%;
 font-weight: lighter
  }
 
+ .panel ul li a {
+	 text-decoration: none;
+	  background: hsla(25deg,75%,25%,.1);
+    padding: .15em .33em .1em;
+    border: solid #fff8;
+    border-width: 2px 0;
+	border-radius: 15px;
+	margin-top: 2em;
+	line-height : 2;
+}
 
 
  
