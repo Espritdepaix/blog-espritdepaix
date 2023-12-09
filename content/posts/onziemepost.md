@@ -2,11 +2,10 @@
 title: Mourir debout
 description:  
 date: 2023-12-01
-
-tags: Nature de l'ëtre individuel
   
-tag: 
-  - Nature de l'ëtre individuel
+tags: 
+  - Etre individuel
+  
 permalink: "posts/{{ title | slugify }}/index.html"
 ---
 

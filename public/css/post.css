@@ -9,12 +9,14 @@
     .arch h1.pagetitle {
         font-size: 225%
     }
-}
+	
+
 
 @media (min-width:40em) {
     .arch h1.pagetitle {
         font-size: 300%
     }
+	
 }
 
 .panel {
@@ -99,7 +101,8 @@
 }
 
 .arch .panel {
-    padding: 1em
+    padding: 1em;
+	
 }
 
 .arch .panel p {
@@ -107,7 +110,7 @@
     margin: .33em 0
 }
 
-.arch .panel li,.arch .panel p {
+.arch .panel li,.arch .panel p, .arch .panel a {
     font-size: 87.5%
 }
 
@@ -121,13 +124,13 @@
 }
 
 .arch #categories h4,.arch #related h4 {
-    text-align: center
+    text-align: center;
 }
 
 .arch #related ul {
     margin: 0 0 1.33em .125em;
     padding: 0 0 1em;
-    border-bottom: 1px solid silver;
+  
     list-style: none;
     columns: 2
 }
@@ -1027,6 +1030,22 @@ font-style:italic;
 font-size:130%;
 font-weight: lighter
  }
+ 
+  .panel ul li a {
+	 text-decoration: none;
+	  background: hsla(25deg,75%,25%,.1);
+    padding: .15em .33em .1em;
+    border: solid #fff8;
+    border-width: 2px 0;
+	border-radius: 15px;
+	margin-top: 2em;
+	line-height : 2;
+}
+
+.arch .panel {
+   
+    text-align:center;
+}
 
 
 
