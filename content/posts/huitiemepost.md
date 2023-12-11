@@ -1,6 +1,6 @@
 ---
 title: Comprendre spirituellement la Bible
-description:  
+description:  Des années de réconciliation
 date: 2023-09-10
 
 tags:

@@ -1,6 +1,6 @@
 ---
 title: La lionne et la gazelle
-description:  
+description:  Poésie spirituelle
 date: 2023-11-06
 
 tags: personnel

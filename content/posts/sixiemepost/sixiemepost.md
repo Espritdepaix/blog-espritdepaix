@@ -5,8 +5,8 @@ date: 2023-07-20
 
 tags:
   - étude biblique 
-tag: 
-  - étude biblique
+  - audio
+
 permalink: "posts/{{ title | slugify }}/index.html"
 ---
 <blockquote class="hero">

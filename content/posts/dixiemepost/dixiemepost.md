@@ -1,6 +1,6 @@
 ---
 title: La lionne du Serengeti
-description:  
+description: Poésie spirituelle
 date: 2023-11-09
 
 tags: personnel
