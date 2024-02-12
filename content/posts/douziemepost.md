@@ -27,7 +27,7 @@ J'avais acheté des pommes de terre et croyant bien faire, j'avais mis le sac de
 ``` 
 	Qui a décidé cela ? La pomme de terre à un cerveau ? Pas que je sache. Il y a donc une intelligence propre à la pomme de terre. La pomme de terre a une conscience alors. Si la pomme de terre a une conscience qui gouverne sa germination et tout son processus de vie, nous pouvons conclure que :
 	La conscience n'est pas contenue dans un cerveau et même n'a aucun lien avec le cerveau et donc le mental.
-	Une conscience est alors à l'œuvre dans le vivant et cette conscience est intelligence infinie. Cette conscience est toujours présente, a un pouvoir de création et est intelligence. La conscience est donc omniprésente, omnipotence et omniscience. 
+	Une conscience est alors à l'œuvre dans le vivant et cette conscience est intelligence infinie. Cette conscience est toujours présente et a un pouvoir de création. La conscience est donc omniprésente, omnipotence et omniscience. 
 ```
 
-C'est le même processus dans la gestation d'un foetus. A partir de deux cellules, il y a une multiplication cellulaire, puis différentiation des cellules en organes et membres. Aucune maman ne dirige ce processus du vivant. Il y a un <mark>principe créateur</mark> qui échappe à l'esprit humain.
+C'est le même processus à l'oeuvre dans la gestation d'un foetus. A partir de deux cellules, il y a une multiplication cellulaire, puis différentiation des cellules en organes et membres. Aucune maman ne dirige ce processus du vivant. Il y a donc un <mark>principe créateur</mark> qui échappe à l'esprit humain.
