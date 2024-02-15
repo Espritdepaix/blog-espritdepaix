@@ -2,7 +2,7 @@
 title: Mourir debout
 description: Quel est le sens de l'affirmation de Paul, "je meurs chaque jour" 
 date: 2023-12-01
-  
+author: Christian 
 tags: 
   - Etre individuel
   

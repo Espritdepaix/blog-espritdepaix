@@ -2,6 +2,7 @@
 title: La condition de parents
 description: Le principe d'un pouvoir créateur unique et universel
 date: 2024-02-11
+author: Christian
 tags: 
   - principe créateur
   
@@ -30,4 +31,5 @@ J'avais acheté des pommes de terre et croyant bien faire, j'avais mis le sac de
 	Une conscience est alors à l'œuvre dans le vivant et cette conscience est intelligence infinie. Cette conscience est toujours présente et a un pouvoir de création. La conscience est donc omniprésente, omnipotence et omniscience. 
 ```
 
-C'est le même processus à l'oeuvre dans la gestation d'un foetus. A partir de deux cellules, il y a une multiplication cellulaire, puis différentiation des cellules en organes et membres. Aucune maman ne dirige ce processus du vivant. Il y a donc un <mark>principe créateur</mark> qui échappe à l'esprit humain.
+C'est le même processus à l'oeuvre dans la gestation d'un foetus. A partir de deux cellules, il y a une multiplication cellulaire, puis différentiation des cellules en organes et membres. Aucune maman ne dirige ce processus du vivant. Il y a donc un <mark>principe créateur</mark> qui échappe à l'esprit humain.  
+Nous sommes tous les enfans d'une même conscience ; manfestation individuelle de la Conscience infinie. Nous parlons tous le même langage, le langage d'une fleur.

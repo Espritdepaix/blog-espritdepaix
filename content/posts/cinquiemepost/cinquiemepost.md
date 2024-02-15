@@ -2,6 +2,7 @@
 title: Mon royaune n'est pas de ce monde
 description: Transcription d'un extrait d'un enregistrement audio de Jean Pierre Canas- oct 1999
 date: 2023-08-01
+author: Christian
 tags:
   - éternité
 tag: éternité

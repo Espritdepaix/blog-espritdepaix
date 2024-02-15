@@ -2,7 +2,7 @@
 title: Regardez-en-haut
 description: interprétation spirituelle de l'histoire de Noé
 date: 2023-07-20
-
+author: Christian
 tags:
   - étude biblique 
   - audio
@@ -55,6 +55,8 @@ L'Esprit ne s'occupe pas de notre bien-être. L'Esprit ne peut pas s'occuper de 
   <span class="soundcite " data-url="/media/regardez-en-haut.mp3"  data-plays="c1" style="max-width: 40%;">Écouter extrait</span>
  </div>
 </aside>
+
+
 C'est pour ça qu'il nous faut de la force. Donc, dans cette histoire, le jour de Noé, il était obligé de regarder en haut. Il marchait avec Dieu et il ne se détournait ni à droite ni à gauche.
 
 Il allait son chemin et il attendait. Il a attendu 40 jours, 40 nuits. Il a attendu longuement, jusqu'à ce qu'ils reçoivent la preuve qu'il y avait l'harmonie par le retour d'une colonne sur l'arche avec un rameau d'olivier.  

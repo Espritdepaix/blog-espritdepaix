@@ -2,7 +2,7 @@
 title: Ne luttez pas contre le mal
 description:  Des années de réconciliation
 date: 2023-12-28
-
+author: Christian
 tags:
   - Non-résistance 
   - Apparences
@@ -65,6 +65,7 @@ et de votre réalisation intérieurs. La méditation est le chemin qui y conduit
  Nous pouvons réellement dissoudre "le mal" avec un sourire. Un sourire intérieur qui accueille dans la pure Présence. Ce qui guérit, qui dissous l'illusion à la racine, c'est un état de conscience particulier ; <mark> une conscience empreinte de Vérité, une conscience-Christ.</mark>  
  
  Un petit bonus :-)
+ 
  <div class="video-embed">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/jMxlPS9aK7o?si=22B6CyQqzFfZQslD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  </div>

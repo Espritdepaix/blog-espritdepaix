@@ -2,6 +2,7 @@
 title: La vague et l'océan
 description: La vague et l'océan. Une courte histoire pour illustrer notre véritable nature
 date: 2023-05-01
+author: Christian
 tags:
   - unicité
 tag: unicité
