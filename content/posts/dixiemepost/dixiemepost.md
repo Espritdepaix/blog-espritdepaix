@@ -2,6 +2,8 @@
 title: La lionne du Serengeti
 description: Poésie spirituelle
 date: 2023-11-09
+authors:
+  - Christian
 author: Christian
 tags: personnel
   

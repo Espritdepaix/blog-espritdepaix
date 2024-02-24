@@ -2,6 +2,8 @@
 title: La condition de parents
 description: Le principe d'un pouvoir créateur unique et universel
 date: 2024-02-11
+authors:
+  - Christian
 author: Christian
 tags: 
   - principe créateur

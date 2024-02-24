@@ -2,8 +2,9 @@
 title: Puise dans la Source infinie
 description: Puise dans la Source infinie qui se trouve en toi
 date: 2024-02-13
-author: HelEna
-
+authors:
+  - HeLena
+author: HeLena
 tags: 
  
   - Pensée du jour

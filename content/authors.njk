@@ -1,0 +1,42 @@
+---
+layout: layouts/home.njk
+permalink: /authors/{{ author | slugify }}/
+pagination:
+  data: collections.authorList
+  size: 1
+  alias: author
+  filter:
+  - all
+  - nav
+  - post
+  - posts
+  - tagList
+eleventyComputed:
+  title: Posts written by {{ author }}
+  summary: "All posts written by “{{ author }}”"
+---
+
+{% set postAuthor = null %}
+{% for contributor in contributors %}
+{% set postAuthor = contributor | toJson %}
+  {% if post.data.author == postAuthor.key %}
+    {%- set postAuthor = contributor[0] %}
+  {%- endif %}
+{%- endfor %}
+
+<h1>Posts par auteur</h1>
+
+
+<h2>{{ collections.authorList[author].length }} posts de {{ author }}</h2>
+<ul class="cards">
+  {%- for post in collections.authorList[author] | reverse -%}
+   <div class="container">
+        <a href="{{ post.url }}" class="list">{{ post.data.title }}</a>
+		 <p class="fleche"><a href="{{ post.url }}" class="list">Lire</a> </p> 
+	</div>	
+          <span class="card__author-name">
+            <a href="/authors/{{ postAuthor.key }}" class="card__author-link">{{ postAuthor.name }}</a>
+       
+   
+  {%- endfor %}
+</ul>

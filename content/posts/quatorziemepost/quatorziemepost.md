@@ -2,8 +2,9 @@
 title: Il n'y a qu'Une seule Puissance 
 description: Il n'y a qu'Une seule Puissance à l'œuvre, celle qui fait se lever et coucher le soleil
 date: 2024-02-14
-author: HelEna
-
+authors:
+  - HeLena
+author: HeLena
 tags: 
   - Pensée du jour 
 permalink: "posts/{{ title | slugify }}/index.html"

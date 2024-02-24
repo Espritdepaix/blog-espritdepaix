@@ -1,5 +1,10 @@
 <ul class="meta">
-<li class="date"><cite><a href="{{post.url }}"> {{ title }}</cite></a> a été pubié le <time>{{ page.date | readableDate }} par<a href=""> {{author}}</a></time></li> 
+<li class="date"><cite><a href="{{post.url }}"> {{ title }}</cite></a> a été pubié le <time>{{ page.date | readableDate }}
+
+{%- if author -%}	
+par	<a href="/authors/{{ author }}">{{ author}}</a></time></li>.
+{%- else -%}.
+{%- endif -%}
 <li>Faire un commentaire, poser une question, c'est<a href="mailto:adresse@email.com?subject={{title}}"> ici </a>que cela se passe.</li>
 </ul>
 

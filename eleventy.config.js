@@ -14,13 +14,8 @@ const pluginImages = require("./eleventy.config.images.js");
 
 const isProd = process.env.ELEVENTY_ENV === 'prod';
 
-	const eleventyGoogleFonts = require("eleventy-google-fonts");
-
-
+const eleventyGoogleFonts = require("eleventy-google-fonts");
 const faviconPlugin = require("eleventy-favicon");
-
-
-
 
 
 module.exports = function(eleventyConfig) {
@@ -31,8 +26,37 @@ module.exports = function(eleventyConfig) {
 		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 	});
 	
-	
-	
+
+function filterTagList(tags) {
+    return (tags || []).filter(tag => ["posts", "posts"].indexOf(tag) === -1);
+  }
+
+  eleventyConfig.addFilter("filterTagList", filterTagList)
+
+  eleventyConfig.addCollection("tagList", function(collection) {
+    let tagSet = new Set();
+    collection.getAll().forEach(item => {
+      (item.data.tags || []).forEach(tag => tagSet.add(tag));
+    });
+
+    return filterTagList([...tagSet].sort((a, b) => a.localeCompare(b, undefined, {sensitivity: 'base'})));
+  });
+
+eleventyConfig.addCollection('authorList', collection => {
+    let authorSet = {};
+    collection.getAll().forEach(item => {
+        if (!item.data.authors) return;
+        item.data.authors.filter(
+          author => !['posts', 'all'].includes(author)
+        ).forEach(
+          author => {
+                if (!authorSet[author]) { authorSet[author] = []; }
+                authorSet[author].push(item)
+            }
+        );
+    });
+    return authorSet;
+});	
 	// Google font
 	 eleventyConfig.addPlugin(eleventyGoogleFonts);
 	 
@@ -140,7 +164,7 @@ module.exports = function(eleventyConfig) {
 		});
 	});
 
-
+	
 	
 	eleventyConfig.addFilter("limit", function (arr, limit) {
   return arr.slice(0, limit);

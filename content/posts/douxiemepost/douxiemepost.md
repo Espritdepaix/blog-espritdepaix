@@ -2,6 +2,8 @@
 title: Ne luttez pas contre le mal
 description:  Des années de réconciliation
 date: 2023-12-28
+authors:
+  - Christian
 author: Christian
 tags:
   - Non-résistance 

@@ -3,6 +3,8 @@ title: La flamme de la liberté
 description: Commentaire du texte de Vimala Thakar dans le livre Un éternel voyage
 date: 2023-06-04
 permalink: "posts/{{ title | slugify }}/index.html"
+authors:
+  - Christian
 author: Christian
 tags:
   - prière
