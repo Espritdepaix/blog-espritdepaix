@@ -1,10 +1,10 @@
 ---
 layout: layouts/home.njk
-title: Page contact pour joindre le site Esprit de paix 
+title: Contact - Conscience de Paix et de Guérison
 description: Une question, un commentaire ou une suggestion. Vous pouvez me contacter sur cette page
 eleventyNavigation:
   key: Contact
-  order: 4
+  order: 5
 ---
 # Contact
 
