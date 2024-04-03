@@ -18,6 +18,8 @@ const eleventyGoogleFonts = require("eleventy-google-fonts");
 const faviconPlugin = require("eleventy-favicon");
 
 
+
+
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
@@ -26,6 +28,8 @@ module.exports = function(eleventyConfig) {
 		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 	});
 	
+	
+
 
 function filterTagList(tags) {
     return (tags || []).filter(tag => ["posts", "posts"].indexOf(tag) === -1);
