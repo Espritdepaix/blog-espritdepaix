@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Conscience de Paix et de Guérison | Guérison spirituelle",
+	title: "Guérison spirituelle",
 	url: "https://conscience-de-paix-et-de-guerison.com",
 	language: "fr",
 	description: "Guérison spirituelle à distance ou à domicile. Faites connaissance avec des textes mystiques de Joel S. Goldsmith et d'autres praticiens de la Voie Infinie.  ",
