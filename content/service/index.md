@@ -22,7 +22,7 @@ Si vous êtes appelés à ouvrir votre conscience à cette expérience vous pouv
 
 1. Adresse<a href="mailto:c.delmas67@gmail.com"> email</a>  
 
-2. Téléphone : <a href="tel:+33620735973">+33 (0)6 20 73 59 73</a> 
+2. Téléphone : +33 (0)6.20.73.59.73
 
 Dans le cas du téléphone, SMS ou WhatsApp, envoyer moi d'abord un message afin que nous puissons trouver un créneau horaire.
 
