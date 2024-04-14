@@ -10,7 +10,9 @@ eleventyNavigation:
 
 # Traitement spirituel
 
-<p>Quel que soit le nom ou la nature du problème auquel vous êtes confrontés ; la maladie, la pauvreté, des problèmes relationnels et de manière générale toutes formes de limitations qui entravent votre pleine expression, vous pouvez vous tourner vers un praticien pour vous aider à dissoudre l'illusion, dissoudre la croyance erronée qu'il y a de la limitation, des conditions négatives et des conditions finies, limitées.</p>
+<p>Le traitement spirituel consiste à dissoudre dans la conscience du praticien le problème qui limite la pleine expression du demandeur, que ce soit la maladie, des problèmes relationnels ou financiers.</p>
+
+<p>Je ne fais pas d’accompagnement spirituel en tant que tel, mais je serai heureux de vous aider en répondant à vos questions et en vous accompagnant dans votre évolution.</p> 
 
 
 
