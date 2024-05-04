@@ -10,7 +10,8 @@ eleventyNavigation:
 
 # Traitement spirituel
 
-<p>Le traitement spirituel consiste à dissoudre dans la conscience du praticien le problème qui limite la pleine expression du demandeur, que ce soit la maladie, des problèmes relationnels ou financiers.</p>
+La Voie Infinie de Joel S. Goldsmith met l'accent sur la compréhension de la nature de l'Esprit et sur la capacité de se connecter à cette puissance pour manifester la guérison. Elle encourage la méditation, la prière et la contemplation comme moyens de renforcer cette connexion intérieure.
+<p>Le traitement spirituel consiste à dissoudre dans la conscience du praticien le problème qui limite la pleine expression du demandeur, que ce soit les maladies physiques, émotionnelles ou mentales, des problèmes relationnels ou financiers.</p>
 
 <p>Je ne fais pas d’accompagnement spirituel en tant que tel, mais je serai heureux de vous aider en répondant à vos questions et en vous accompagnant dans votre évolution.</p> 
 
