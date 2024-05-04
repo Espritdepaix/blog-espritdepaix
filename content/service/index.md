@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
 title: Traitement spirituel - Conscience de Paix et de Guérison
-description: Traitement spirituel à distance ou à domicile
+description: Traitement spirituel à distance ou à domicile, Voie infinie, Joel S. Goldsmith.
 eleventyNavigation:
   key: Service
   order: 4

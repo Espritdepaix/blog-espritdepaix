@@ -11,7 +11,7 @@ tag:
   - personnel
 permalink: "posts/{{ title | slugify }}/index.html"
 ---
-{% image "./serengeti.png", "La plaine du Serengeti" %}  
+{% image "./serengeti.webp", "La plaine du Serengeti" %}  
 
 
 
