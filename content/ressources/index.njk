@@ -13,7 +13,7 @@ eleventyNavigation:
 {% if graines %}
   <h1 class="sagesse">{{titre}}</h2>
   <h3>Les graines de sagesse sont tirées du livre <em class="sagesse">"La voie Infinie"</em> de Joël S. Goldsmith.</h3>
-	<p class="sagesse">Commencez votre vie spirituelle par la compréhension que tous les conflits doivent être réglés au-dedans de votre conscience.</p>
+	<pre><p class="sagesse">Commencez votre vie spirituelle par la compréhension que tous les conflits doivent être réglés au-dedans de votre conscience.</p></pre>
 	 {% for graine in graines | reverse | randomItem %}
 	
 	 <p class="sagesse">{{ graine.desc}}</p>
