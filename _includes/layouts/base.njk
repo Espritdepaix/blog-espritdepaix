@@ -25,6 +25,14 @@
 {{ content | safe }}
 {% include "footer.njk" %}
 <!-- Current page: {{ page.url | htmlBaseUrl }} -->
+<script>
+        document.querySelectorAll('.faq-question').forEach(item => {
+            item.addEventListener('click', () => {
+                const answer = item.nextElementSibling;
+                answer.classList.toggle('active');
+            });
+        });
+    </script>
 <script type='text/javascript' defer src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'> </script>
 </body>
 </html>
