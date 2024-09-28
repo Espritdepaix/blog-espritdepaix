@@ -13,7 +13,7 @@ Je souhaite sincérement que les contenus partagés vous inspirent. La démarche
 ## Me contacter
 1.  via mon adresse mail: <a href="mailto:c.delmas67@gmail.com">c.delmas67@gmail.com</a>
  
- 2. par téléphone :  <a href="tel:+33612345678">+33 (0)6 20 73 59 73</a>
+ 2. par téléphone :  +33 (0)6 20 73 59 73
  
 
 
