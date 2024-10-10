@@ -7,17 +7,17 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 3 
 ---
-<div id="ancrage"></div>
+<main id="main">
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 {% css %} #rounded picture img {border-radius: 50%;width: 2in; } {% endcss %}
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
-
 <div id="rounded">
-{% image "../public/img/mono.jpg", "Christian D - Esprit de paix." %}
+<picture>
+{%- image "../public/img/mono.jpg", "Christian D - Esprit de paix." -%}
+</picture>
 </div>
-
 <h1>Bienvenue </h1>
 <blockquote class="hero">
 <p>Dans le bruit et la tourmente,<br>
@@ -25,9 +25,7 @@ je tourne mon regard au-dedans de moi,<br>
 là aucun combat à mener, pas d'opposé, ni opposition,<br>
 seul reste la nature de mon être qui est pure harmonie.</p>
 <cite>Librement inspiré de Joel S. Goldsmith</cite>
-
 </blockquote>
-
 <h2>A la une</h2>
 <div class="tile">
      <a href="posts/la-vague-et-l-ocean/">{% image "../public/img/lavague.webp", "La Grande Vague de Kanagawa" %}</a>
@@ -36,19 +34,28 @@ seul reste la nature de mon être qui est pure harmonie.</p>
         <span class="tile_desc">Une courte histoire pour illustrer notre véritable nature</span>
      </div>
 </div>
-
+<section>
 <div class="container">
   <h2>Ecrits</h2>
 </div>
-
 {% include "postslist.njk" %}
-
+</section>
 {% include "morePosts.njk" %}
 
+<section>
+<h2>Newsletter</h2>
+<!-- BEGIN: Benchmark Email Signup Form Code -->
+<script id="lbscript1762450" src="https://lb.benchmarkemail.com//fr/code/lbformnew.js?mFcQnoBFKMTN%252BvQNDO1mNhbnm%252BWYYJMGlpxdoalHnOLsSyO8CyyFvw%253D%253D"></script><noscript>Please enable JavaScript <br><div align="center" style="padding-top:5px;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;"><a href="//www.benchmarkemail.com/fr" target="_new" style="text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;">L'Email Marketing</a> by Benchmark</div></noscript>
+<!-- END: Benchmark Email Signup Form Code -->
+
+</section>
+<section>
 <h2>Remerciements</h2>
 <p>
 Merci à <a href="https://meyerweb.com/">Eric Meyer</a> pour l'inspiration du site <code> Conscience de Paix et de Guérison</code> 
 </p>
+</section>
+</main>
 
 
 

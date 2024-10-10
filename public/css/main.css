@@ -588,7 +588,7 @@ footer#global>div {
 
 #wordpress.credits {
     grid-column: 1;
-    grid-row: 2
+    grid-row: 1
 }
 
 footer#global>div div {
@@ -619,6 +619,10 @@ footer#global strong {
         align-self: start;
 		/*padding-top: 20px; */
     }
+	
+	.sosumi p {
+		padding-top: 1em;
+	}
 
     footer#global>div div {
         margin: 0

@@ -1,21 +1,19 @@
 const { DateTime } = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
-
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginBundle = require("@11ty/eleventy-plugin-bundle");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
-
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
-
-
-
 const isProd = process.env.ELEVENTY_ENV === 'prod';
-
 const eleventyGoogleFonts = require("eleventy-google-fonts");
 const faviconPlugin = require("eleventy-favicon");
+const htmlmin = require("html-minifier");
+
+
+
 
 
 
@@ -28,7 +26,17 @@ module.exports = function(eleventyConfig) {
 		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 	});
 	
-	
+	eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+    if( outputPath && outputPath.endsWith(".html") ) {
+      let minified = htmlmin.minify(content, {
+        removeComments: true,
+        collapseWhitespace: true
+      });
+      return minified;
+    }
+    return content;
+  });
+
 
 
 function filterTagList(tags) {
@@ -114,6 +122,20 @@ eleventyConfig.addCollection('authorList', collection => {
 		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
 		return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
 	});
+	
+
+  eleventyConfig.addFilter("removeEmptyLines", function(content) {
+    // Utilisation d'une expression régulière pour trouver et supprimer les lignes vides
+    // ^ : début de ligne
+    // \s* : zéro ou plusieurs espaces blancs
+    // $ : fin de ligne
+    // (?:\r\n?|\n) : groupe non capturant pour les différents types de sauts de ligne
+    // /gm : flags pour global (toutes les occurrences) et multiline (traiter chaque ligne)
+    return content.replace(/^\s*$(?:\r\n?|\n)/gm, "");
+  });
+	
+	
+	
 	// Short code
 	
 	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);

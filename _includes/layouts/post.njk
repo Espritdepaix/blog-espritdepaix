@@ -11,15 +11,14 @@ layout: layouts/base.njk
 <em class="pubtime">{{ page.date | htmlDateString}}</em>
 </header>
 <div class="text">
-{{ content | safe }}
-{% include "meta.njk" %}
+{{ content | removeEmptyLines | safe }}
+{%- include "meta.njk" -%}
 </div>
 </article>
-{% include "prev-next.njk" %}	
+{%- include "prev-next.njk" -%}	
 </main>
-
-{% include "nav.njk" %}
-{% include "feeds.njk" %}
+{%- include "nav.njk" -%}
+{%- include "feeds.njk" -%}
 
 
 
