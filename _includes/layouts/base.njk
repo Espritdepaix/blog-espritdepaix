@@ -26,5 +26,37 @@
 {%- include "footer.njk" -%}
 <!-- Current page: {{ page.url | htmlBaseUrl }} -->
 <script type='text/javascript' defer src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'> </script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const questions = document.querySelectorAll('.faq-question');
+    
+    questions.forEach(question => {
+        // Ajouter un indicateur visuel à chaque question
+        question.innerHTML += '<span class="faq-icon">+</span>';
+        
+        question.addEventListener('click', function() {
+            const answer = this.nextElementSibling;
+            const icon = this.querySelector('.faq-icon');
+            
+            // Ferme toutes les autres réponses
+            questions.forEach(q => {
+                if (q !== this) {
+                    q.nextElementSibling.classList.remove('active');
+                    q.classList.remove('active');
+                    q.querySelector('.faq-icon').textContent = '+';
+                }
+            });
+            
+            // Bascule la classe 'active' sur la question et la réponse cliquées
+            this.classList.toggle('active');
+            answer.classList.toggle('active');
+            
+            // Change l'icône
+            icon.textContent = answer.classList.contains('active') ? '−' : '+';
+        });
+    });
+});
+
+</script>
 </body>
 </html>
