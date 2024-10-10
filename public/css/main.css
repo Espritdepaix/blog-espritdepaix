@@ -588,7 +588,7 @@ footer#global>div {
 
 #wordpress.credits {
     grid-column: 1;
-    grid-row: 1
+    grid-row: 2
 }
 
 footer#global>div div {
@@ -619,10 +619,6 @@ footer#global strong {
         align-self: start;
 		/*padding-top: 20px; */
     }
-	
-	.sosumi p {
-		padding-top: 1em;
-	}
 
     footer#global>div div {
         margin: 0
@@ -738,6 +734,26 @@ figure {
 .faq-answer.active {
     max-height: 200px; /* Ajustez cette valeur en fonction de la longueur des réponses */
     margin-top: 10px;
+}
+
+.faq-question {
+    /* ... vos styles existants ... */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.faq-icon {
+    font-size: 1.2em;
+    transition: transform 0.3s ease;
+}
+
+.faq-question.active .faq-icon {
+    transform: rotate(45deg);
+}
+
+.faq-question.active {
+    background-color: #f0f0f0;
 }
 
 .container {
