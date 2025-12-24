@@ -13,8 +13,10 @@ numberOfLatestPostsToShow: 3
 {% set postslistCounter = postsCount %}
 <div id="rounded">
 <picture>
-{% image "../public/img/mono.jpg", "Christian D - Esprit de paix." %}
- </picture>
+
+  <source type="image/webp" srcset="/img/mono.webp">
+<img alt="Christian D - Esprit de paix." loading="lazy" decoding="async" src="/img/mono.jpg" width="300" height="300">
+</picture>
 </div>
 <h1>Bienvenue </h1>
 <blockquote class="hero">

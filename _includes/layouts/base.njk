@@ -1,17 +1,20 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
-  "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!DOCTYPE html>
 <html lang="{{ metadata.language }}">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ title or metadata.title }}</title>
 <meta name="description" content="{{ description or metadata.description }}">
 <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 <link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
 <meta name="generator" content="{{ eleventy.generator }}"> 
-<meta name="msvalidate.01" content="6C61AE730DEA51BC1FADAC9415151BD9" />
+<meta name="msvalidate.01" content="6C61AE730DEA51BC1FADAC9415151BD9">
 {%- include "graphs.njk" -%}
-{%- favicon './favicon.svg' -%}
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
 {%- css -%}
 	{%- include "public/css/main.css" -%}
 	{%- include "public/css/home.css" -%}
@@ -25,7 +28,7 @@
 {{ content | removeEmptyLines | safe }}
 {%- include "footer.njk" -%}
 <!-- Current page: {{ page.url | htmlBaseUrl }} -->
-<script type='text/javascript' defer src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'> </script>
+<script defer src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'> </script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     const questions = document.querySelectorAll('.faq-question');
